@@ -4,7 +4,7 @@ Auto spinning roulette with cheat panel. I didn't use any libary so there is not
 
 ## Getting understand the codes
 
-I wrote the informations of codes to roulette.js files. I think  thats  enough.
+I wrote the informations of codes to roulette.js file. I think  thats  enough.
 
 ## When is the new version
 
